@@ -1,25 +1,25 @@
 {
-  "name": "laravel-elixir-postcss",
-  "version": "0.5.0",
-  "description": "Laravel Elixir PostCSS Extension",
+  "name": "coldbox-elixir-postcss",
+  "version": "1.0.1",
+  "description": "ColdBox Elixir PostCSS Extension",
   "main": "index.js",
   "scripts": {
     "eslint": "./node_modules/.bin/eslint '*.js'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "laravel",
+    "coldbox",
     "elixir",
     "gulp",
     "gulp-postcss",
     "postcss",
-    "laravel-elixir-postcss"
+    "coldbox-elixir-postcss"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tureki/laravel-elixir-postcss"
+    "url": "https://github.com/coldbox-elixir/extension-postcss"
   },
-  "homepage": "https://github.com/tureki/laravel-elixir-postcss",
+  "homepage": "https://github.com/coldbox-elixir/extension-postcss",
   "author": {
     "name": "tureki"
   },
@@ -28,19 +28,19 @@
     "gulp-cssnano": "^2.1.2",
     "gulp-if": "^2.0.2",
     "gulp-load-plugins": "^1.4.0",
-    "gulp-postcss": "^6.2.0",
+    "gulp-postcss": "^7.0.0",
     "gulp-rename": "^1.2.2",
     "gulp-sourcemaps": "^1.9.1",
     "gulp-util": "^3.0.6",
     "underscore": "^1.8.3"
   },
   "bugs": {
-    "url": "https://github.com/tureki/laravel-elixir-postcss/issues"
+    "url": "https://github.com/coldbox-elixir/extension-postcss/issues"
   },
   "maintainers": [
     {
-      "name": "tureki",
-      "email": "tureki@me.com"
+      "name": "elpete",
+      "email": "eric@elpete.com"
     }
   ],
   "devDependencies": {
